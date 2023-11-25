@@ -16,6 +16,8 @@
 <ul>
 <li><a href="#requirements">Requirements:</a></li>
 <li><a href="#rough-idea">Rough Idea:</a></li>
+<li><a href="#budget">Estimated Budget:</a></li>
+
 </ul>
 </li>
 </ul>
@@ -74,7 +76,8 @@
 <li>Admin staff service the vehicle, calculate the total fare, and catalog everything.</li>
 <li>The driver continues with the new vehicle, and the cycle repeats every 3 hours.</li>
 </ul>
-<p><strong>Estimated Budget</strong></p>
+     <h2 id="budget">Estimated Budget:</h2>
+
 <ol>
 <li>
 <p><strong>Vehicle Acquisition:</strong></p>
