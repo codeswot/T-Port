@@ -1,9 +1,31 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>g</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#electric-tricycle-transport-business-trans-port">Electric Tricycle Transport Business: Trans-Port</a>
+<ul>
+<li><a href="#requirements">Requirements:</a></li>
+<li><a href="#rough-idea">Rough Idea:</a></li>
+</ul>
+</li>
+</ul>
 
-<h1 id="electric-tricycle-transport-business-trans-port">Electric Tricycle Transport Business: Trans-Port</h1>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="electric-tricycle-transport-business-trans-port">Electric Tricycle Transport Business: Trans-Port</h1>
 <h2 id="requirements">Requirements:</h2>
 <ol>
 <li>Electric Tricycle</li>
@@ -133,3 +155,8 @@
 <li>The rough estimated cost might be in the range of $175,000 to $350,000 for the initial setup and launch of Trans-Port.</li>
 </ul>
 
+    </div>
+  </div>
+</body>
+
+</html>
