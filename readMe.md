@@ -1,14 +1,9 @@
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>T-Port</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="electric-tricycle-transport-business-trans-port">Electric Tricycle Transport Business: Trans-Port</h1>
+---
+
+<h1 id="electric-tricycle-transport-business-trans-port">Electric Tricycle Transport Business: Trans-Port</h1>
 <h2 id="requirements">Requirements:</h2>
 <ol>
 <li>Electric Tricycle</li>
@@ -137,7 +132,4 @@
 <ul>
 <li>The rough estimated cost might be in the range of $175,000 to $350,000 for the initial setup and launch of Trans-Port.</li>
 </ul>
-</div>
-</body>
 
-</html>
